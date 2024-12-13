@@ -1,2 +1,3 @@
 # nzr-demo
-this is my first git repository
+This is my first Git Repository
+Author - MD Nasar Equbal
